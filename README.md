@@ -31,7 +31,7 @@ This project borrows code from [MUNIT-Tensorflow](https://github.com/taki0112/MU
 * python main.py --phase train --dataset summer2winter --batch_size 1
 
 ### Test
-* python main.py --phase test --dataset summer2winter --batch_size 1 --num_style 3
+* python main.py --phase test --dataset summer2winter --batch_size 1
 
 ## Author
 everchens
