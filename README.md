@@ -1,6 +1,10 @@
 # FaceTransfer
 This project borrows code from [MUNIT-Tensorflow](https://github.com/taki0112/MUNIT-Tensorflow) and [StarGAN-Tensorflow](https://github.com/taki0112/StarGAN-Tensorflow).
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y30jtjCZA64" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IhM9F-wWv7U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Requirements
 * Tensorflow 1.4
 * Python 3.6
