@@ -28,10 +28,10 @@ This project borrows code from [MUNIT-Tensorflow](https://github.com/taki0112/MU
 
 
 ### Train
-* python main.py --phase train --dataset summer2winter --batch_size 1
+* python main_2.py --phase train --dataset summer2winter --batch_size 1
 
 ### Test
-* python main.py --phase test --dataset summer2winter --batch_size 1
+* python main_2.py --phase test --dataset summer2winter --batch_size 1
 
 ## Author
 everchens
