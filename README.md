@@ -1,7 +1,7 @@
 # FaceTransfer
 This project borrows code from [MUNIT-Tensorflow](https://github.com/taki0112/MUNIT-Tensorflow) and [StarGAN-Tensorflow](https://github.com/taki0112/StarGAN-Tensorflow).
 
-[Gakki to Trump]](https://youtu.be/IhM9F-wWv7U)
+[Gakki to Trump](https://youtu.be/IhM9F-wWv7U)
 
 [Trump to Gakki](https://youtu.be/y30jtjCZA64)
 
