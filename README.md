@@ -1,5 +1,4 @@
 # FaceTransfer
-Simple Tensorflow implementation of ["Multimodal Unsupervised Image-to-Image Translation"](https://arxiv.org/abs/1804.04732)
 This project borrows code from [MUNIT-Tensorflow](https://github.com/taki0112/MUNIT-Tensorflow) and [StarGAN-Tensorflow](https://github.com/taki0112/StarGAN-Tensorflow).
 
 ## Requirements
