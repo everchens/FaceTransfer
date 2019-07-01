@@ -1,6 +1,10 @@
 # FaceTransfer
 This project borrows code from [MUNIT-Tensorflow](https://github.com/taki0112/MUNIT-Tensorflow) and [StarGAN-Tensorflow](https://github.com/taki0112/StarGAN-Tensorflow).
 
+![A2B_1](https://github.com/everchens/FaceTransfer/blob/master/A_187_01_style0.png)![A2B_2](https://github.com/everchens/FaceTransfer/blob/master/A_1_01_style0.png)
+
+![B2A_1](https://github.com/everchens/FaceTransfer/blob/master/B_102_01_style0.png)![B2A_2](https://github.com/everchens/FaceTransfer/blob/master/B_169_01_style0.png)
+
 [Gakki to Trump](https://youtu.be/y30jtjCZA64)
 
 [Trump to Gakki](https://youtu.be/IhM9F-wWv7U)
